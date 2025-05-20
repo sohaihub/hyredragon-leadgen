@@ -11,7 +11,7 @@ model = genai.GenerativeModel("gemini-1.5-flash")
 
 # ===== Streamlit UI =====
 st.set_page_config(page_title="AI Lead Generator", layout="wide")
-st.title("📇 AI-Powered B2B Lead Generator")
+st.title("📇 AI-Powered Lead Generator")
 st.markdown("Generate realistic company leads with details like contact info, LinkedIn, and website.")
 
 # ===== Input Form =====
