@@ -43,7 +43,8 @@ Only output the markdown table.
 - Company LinkedIn must be full URLs, like: https://www.linkedin.com/company/companyname
 - Official websites must be full URLs, like: https://example.com
 - Address must include city and postal code
-- All contact details should be realistic-looking
+- All contact details should be realistic-looking and real data only.
+- Ensure proper markdown formatting with `|` separators.
 only output for the markdown table.
 
 """
